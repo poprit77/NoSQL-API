@@ -2,12 +2,11 @@
     "name": "no-sql-api",
     "version": "1.0.0",
     "description": "demonstate moongos no sql functionality",
-    "main": "index.js",
+    "main":     "C:\\Users\\peter ataras\\projects\\18-NoSQL\\18-NoSQL\\NoSQL-API\\server.js",
     "license": "MIT",
     "scripts": {
       "start": "node index",
-      "dev": "nodemon index",
-      "seed": "node utils/seed"
+      "dev": "nodemon index"
     },
     "dependencies": {
       "express": "^4.17.1",
